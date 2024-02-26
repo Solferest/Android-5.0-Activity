@@ -1,12 +1,12 @@
 # Android-5.0-Activity
 # Логи при запуске приложения:
-2024-02-26 13:42:01.931 14670-14670 MainActivityLog         com.example.myapplication2           D  CREATE log hello
-2024-02-26 13:42:02.057 14670-14670 MainActivityLog         com.example.myapplication2           D  START log hello
-2024-02-26 13:42:02.062 14670-14670 MainActivityLog         com.example.myapplication2           D  RESUME log hello
-
-onCreate() - создание приложения, подготовка к отображению
-OnStart() -  отображение приложения для пользователя
-OnResume() - пользователь может взаимодействовать с приложением, это состояние сохраняется, пока не произойдут какие-то события
+2024-02-26 13:42:01.931 14670-14670 MainActivityLog         com.example.myapplication2           D  CREATE log hello  
+2024-02-26 13:42:02.057 14670-14670 MainActivityLog         com.example.myapplication2           D  START log hello  
+2024-02-26 13:42:02.062 14670-14670 MainActivityLog         com.example.myapplication2           D  RESUME log hello  
+  
+onCreate() - создание приложения, подготовка к отображению  
+OnStart() -  отображение приложения для пользователя  
+OnResume() - пользователь может взаимодействовать с приложением, это состояние сохраняется, пока не произойдут какие-то события  
 
 # Логи при повороте экрана:
 2024-02-26 13:43:59.073 14670-14670 MainActivityLog         com.example.myapplication2           D  PAUSE log hello
